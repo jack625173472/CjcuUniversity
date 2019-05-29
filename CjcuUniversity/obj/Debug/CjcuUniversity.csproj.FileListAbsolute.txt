@@ -93,3 +93,5 @@ D:\Tsung\Documents\VSprojects\CjcuUniversity\CjcuUniversity\bin\PagedList.dll
 D:\Tsung\Documents\VSprojects\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.dll
 D:\Tsung\Documents\VSprojects\CjcuUniversity\CjcuUniversity\bin\PagedList.xml
 D:\Tsung\Documents\VSprojects\CjcuUniversity\CjcuUniversity\bin\PagedList.Mvc.xml
+D:\Tsung\Documents\VSprojects\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.Migrations.InitialCreate.resources
+D:\Tsung\Documents\VSprojects\CjcuUniversity\CjcuUniversity\obj\Debug\CjcuUniversity.csproj.GenerateResource.cache
